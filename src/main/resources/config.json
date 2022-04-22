@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "gameRule": "com.gamification.gameRules.WinIfSuccessLoseIfFail",
+      "task": "com.gamification.tasks.OkTask",
+      "params": [
+        {
+          "class": "int",
+          "value": 600
+        }
+      ]
+    }
+  ]
+}
